@@ -1,5 +1,5 @@
 {
-  "name": "math-adventure:-kid's-quest",
+  "name": "math-adventure:-kid's-quest-(persian)",
   "private": true,
   "version": "0.0.0",
   "type": "module",
@@ -10,7 +10,6 @@
   },
   "dependencies": {
     "react": "^19.2.3",
-    "react-dom": "^19.2.3",
     "react-router-dom": "^7.11.0"
   },
   "devDependencies": {
